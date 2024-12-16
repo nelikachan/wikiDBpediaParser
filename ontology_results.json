@@ -1,0 +1,4594 @@
+{
+    "A5/1": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Access Control": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Access Control Matrix": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Access Rights": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Access Structure": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "ACM": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Adaptive Chosen Ciphertext Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Advanced Encryption Standard": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Adware": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "AES": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Algebraic Number Field": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Alphabet": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Anonymity": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Anthropometry": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "ARIA": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "ARP Spoofing": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Attestation": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Authenticated Encryption": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Authentication": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Authorization": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Autocorrelation": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Availability": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Bank Card": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Barter": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Base": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Berlekamp–Massey Algorithm": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Biba Model": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Binary GCD Algorithm": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Binomial Distribution": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Blind Signature": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "BLP": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Blum Integer": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Boomerang Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Perspective": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Broadcast Encryption": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Camellia": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Cast": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "CDH": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Certificate": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Certificate Revocation": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Certificateless Cryptography": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Chaffing and Winnowing": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Chinese Remainder Theorem": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Chinese Wall": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Chosen Ciphertext Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Chosen Plaintext Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Chromosome": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Ciphertext-Only Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Claw-Free": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "CLEFIA": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Cloud Computing": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Collision Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Collision Resistance": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Commitment": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Common Criteria": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Complexity Theory": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Computational Complexity": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Cookie": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Copy Protection": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Cover Story": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Cross-Correlation": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "CRT": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Cryptanalysis": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Cryptographic Protocol": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Cryptosystem": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Cube Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "DAC": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Data Remanence": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Database Encryption": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "De Bruijn Sequence": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Deniable Encryption": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "DHP": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Dictionary Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Digital Signature Standard": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Discretionary Access Control": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "DLP": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "DNA": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "DPA": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Dynamic Program Analysis": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "E0": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "e-Government": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Eavesdropping": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "ECC": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "ECM": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "ECPP": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Electromagnetic Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Electronic Cash": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "ElGamal Encryption": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Elliptic Curve Cryptography": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "EMV": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Encryption": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Enigma": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "eSTREAM": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Euclidean Algorithm": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Extended Euclidean Algorithm": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Factor Base": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Fair Exchange": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "FEAL": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Feistel Cipher": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Fermat Primality Test": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Field": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "File System Permissions": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Fingerprint": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Finite Field": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "FIPS 140-2": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Firewall": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Forgery": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Formal Methods": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Forward Secrecy": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Function Field Sieve": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Gap": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "GCD": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "GCM": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Gene": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Generator": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Genetic Code": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Geometry of Numbers": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "GMAC": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "GOST": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Greatest Common Divisor": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Gröbner Basis": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Group": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Hardware Security Module": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Hash Chain": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Heredity": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "HMAC": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Homomorphic Encryption": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Homomorphism": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "HRU": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "HTTP Authentication": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "HTTP Cookie": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "IBE": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "IDEA": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Identity-Based Encryption": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Information Assurance": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Information Theory": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Integrated Circuit": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Intellectual Property": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Interactive Proof": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Interception": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Interpolation Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "IP Traceback": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "IPES": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "IPsec": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Iris": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Irreducible Polynomial": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "ISO/IEC 27001": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Issuer": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Itoh–Tsujii Inversion Algorithm": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Jacobi Symbol": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "k-Anonymity": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Karatsuba Algorithm": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Keeloq": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Kerberos": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Key": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Key Authentication": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Key Escrow": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Key Management": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Keystream": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Keystroke Dynamics": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Keystroke Logging": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Known Plaintext Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "L Notation": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Lattice": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Lattice Reduction": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Lattice-Based Cryptography": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "LCM": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Least Common Multiple": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Legendre Symbol": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Linear Congruential Generator": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Linear Feedback Shift Register": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "List Decoding": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Logic Bomb": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Longhand": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "m-Sequence": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "MAA": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Malware": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Mandatory Access Control": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Man-in-the-Middle Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "MARS": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Master Key": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Meet-in-the-Middle Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Mersenne Prime": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "MILS": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Minimal Polynomial": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Modular Arithmetic": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Modulus": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Monitoring": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Multiple Encryption": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Multiple Independent Levels of Security": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Multivariate Cryptography": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Near Field Communication": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "NFC": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "NFS": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Nonlinear Feedback Shift Register": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "NSS": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "NTRU": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "NTRUEncrypt": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "NTRUSign": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Nucleic Acid": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Number Field Sieve": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Number Theory": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Nym": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Oblivious Transfer": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "One-Time Password": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "One-Way Function": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Online Analytical Processing": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Order": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Password": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Payment Card": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Penmanship": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Permissions": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "PGP": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Physical Security": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "PKCS": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "PKI": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Playfair Cipher": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "PMAC": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Point Counting": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "POK": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Polyinstantiation": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Post-Quantum Cryptography": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Primality Test": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Prime Number": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Primitive Element": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Private Information Retrieval": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "PRNG": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Project Athena": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Proof of Work": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Proof-Carrying Code": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Protected Mode": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Protection": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Protocol": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Proximity Card": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Pseudoprime": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Pseudorandom Number Generator": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Public Key Cryptography": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Public Key Infrastructure": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "QRP": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Quadratic Residue": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Quadratic Residuosity Problem": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Quadratic Sieve": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Quantum Cryptography": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Rabin Cryptosystem": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Radio Fingerprinting": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "RC4": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "RC5": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "RC6": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Record Linkage": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Reference Monitor": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Related Key Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Relay Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Replay Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Response": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Ring": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Role-Based Access Control": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "RSA Factoring Challenge": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "RSA Problem": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Run": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Salt": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Sandbox": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "SEAL": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Secure Communication": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Secure Element": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Secure Shell": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Security": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Security Token": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Self-Shrinking Generator": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Semantic Security": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "SEPA": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Separation of Duties": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "SERPENT": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "SHA": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Share": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Shrinking Generator": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Signcryption": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Single Euro Payments Area": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Single Wire Protocol": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Skipjack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Slide Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Smart Card": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Smoothness": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Solitaire": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Speaker Recognition": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Spyware": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "SSL": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "SSS": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Standard Basis": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Standard Model": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Static Analysis": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Static Program Analysis": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Station-to-Station Protocol": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Stream Cipher": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Strong Authentication": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Strong Prime": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Strong RSA Assumption": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Subgroup": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Summation Generator": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "SWP": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Tempest": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Tiger": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Timing Attack": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "TLS": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Token": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Torus-Based Cryptography": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "TPM": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Traitor Tracing": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Triple DES": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Trojan": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Trust Anchor": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Trust Management": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Trusted Computing": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Trusted Computing Group": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Trusted Platform Module": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Trusted Third Party": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "TSS": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "TWIRL": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "TWOFISH": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Universal Integrated Circuit Card": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Vector Space": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Virtual Machine Introspection": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Voice Recognition": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Whirlpool": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "White-Box Cryptography": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Wiretapping": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "X.509": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    },
+    "Zero-Knowledge": {
+        "head": {
+            "link": [],
+            "vars": [
+                "property",
+                "value"
+            ]
+        },
+        "results": {
+            "distinct": false,
+            "ordered": true,
+            "bindings": []
+        }
+    }
+}

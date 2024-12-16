@@ -1,0 +1,731 @@
+Access Control from an OS Security Perspective
+Access Control Policies, Models, and Mechanisms
+Access Control Rules
+Access Limitation
+Access Lists
+Access Matrix
+Access Pattern
+Adaptive Chosen Plaintext and Chosen Ciphertext
+Adaptive Chosen Plaintext Attack
+Administrative Policies in SQL
+Advanced Hash Competition
+Adversarial/External Knowledge (Privacy in the Presence of)
+Aggregate Signatures
+AHS Competition/SHA-3
+Alberti Encryption
+Algebraic Immunity of Boolean Functions
+Algorithmic DoS
+Android’s Security Framework–Understanding the Security of Mobile Phone Platforms
+Anomalous Binary Curves
+Anonymity in Data Mining
+Anonymous Communication
+Anonymous Routing
+Anonymous Web Browsing and Publishing
+Anthropometric Authentication
+Anti-DoS Cookies
+Anti-Jamming Strategy
+Antispam Based on Sender Reputation
+Antivirus
+Application-Level Denial of Service
+Applications of Formal Methods to Intrusion Detection
+Applications of Formal Methods to Web Application Security
+Applications of Rank-Metric Codes
+ARP Poison Routing (APR)
+ARP Poisoning
+Asymmetric Cryptosystem
+Asynchronous Stream Cipher
+Attack by Summation Over an Hypercube
+Attribute Certificate
+Authentication Token
+Authentication, From an Information Theoretic Perspective
+Autotomic Signatures
+Barrett’s Algorithm
+Beaufort Encryption
+Bell-LaPadula Confidentiality Model
+Berlekamp Q-matrix
+Biba Integrity Model
+Biba Mandatory Integrity Policy
+Big Number Multiplication
+Big Number Squaring
+Bilinear Pairings
+Binary Euclidean Algorithm
+Binary Exponentiation
+Binding Pattern
+Biometric Authentication
+Biometric Cryptosystem
+Biometric Encryption
+Biometric Fusion
+Biometric Identification in Video Surveillance
+Biometric Information Ethics
+Biometric Key Generation
+Biometric Keys
+Biometric Matching
+Biometric Passport Security
+Biometric Performance Evaluation
+Biometric Privacy
+Biometric Recognition
+Biometric Sample Quality
+Biometric Sensors
+Biometric Social Responsibility
+Biometric Systems Evaluation
+Biometric Technologies and Security – International
+Biometric Standards Development Activities
+Biometric Testing
+Biometrics for Forensics
+Biometrics for Identity Management and Fields of Application
+Biometrics in Video Surveillance
+Biometrics: Terms and Definitions
+BIOS Basic Input Output System
+Birthday Paradox
+Black Box Algorithms
+Blackmailing Attacks
+Blinding Techniques
+Blowfish
+BLP Model
+Blum–Blum–Shub Pseudorandom Bit Generator
+Blum–Goldwasser Public Key Encryption System
+Botnet Detection in Enterprise Networks
+Broadcast Authentication from a Conditional
+Broadcast Authentication from an Information Theoretic Perspective
+Broadcast Stream Authentication
+Browser Cookie
+Buffer Overflow Attacks
+Buffer Overrun
+Bytecode Verification
+C2 – Block Cipher
+Cascade Revoke
+Cayley Hash Functions
+CBC-MAC and Variants
+CCIT2-Code
+Cellular Network Security
+Certificate Management
+Certificate of Primality
+Certificate-Based Access Control
+Challenge-Response Identification
+Challenge-Response Protocol
+Chaum Blind Signature Scheme
+Chemical Combinatorial Attack
+Chinese Wall Model
+Chip Card
+Chosen Plaintext and Chosen Ciphertext Attack
+Chosen Prefix Attack
+Chroot Jail
+Chroot Prison
+Classical Cryptosystem
+Client Puzzles
+Clock-Controlled Generator
+Closest Vector Problem
+CMAC
+Code Veriﬁcation
+Codebook Attack
+Collaborative DoS Defenses
+Combination Generator
+Commercial Security Model
+Common Criteria, From a Security Policies Perspective
+Communication Channel Anonymity
+Compositeness Test
+Compromising Emanations
+Computational Diﬃe-Hellman Problem
+Computational Puzzles
+Computationally Sound Proof System
+Conceptual Design of Secure Databases
+Conference Key Agreement
+Conference Keying
+Conﬁdentiality Model
+Conﬁrmer Signatures
+Consistency Veriﬁcation of Security Policy
+Contactless Cards
+Content-Based and View-Based Access Control
+Contract Signing
+Control Vector
+Conventional Cryptosystem
+Coprime
+Correcting-Block Attack
+Correlation Attack for Stream Ciphers
+Correlation Immune and Resilient Boolean Functions
+CPS, Certiﬁcate Practice Statement
+CPU Consumption
+CPU Denial of Service
+CPU Starvation
+Cramer–Shoup Public-Key System
+Credential Veriﬁcation
+Credential-Based Access Control
+Cross Site Scripting Attacks
+Crypto Machines
+Cryptographic Algorithm Evaluation
+Cryptographic Protocol Veriﬁcation
+Cryptographic Puzzles
+Cryptography on Reconﬁgurable Devices
+Cryptology
+Cryptophthora
+CRYPTREC (Japanese Cryptographic Algorithm Evaluation Project)
+Cut-and-Choose Protocol
+Data Linkage
+Data Mining (Privacy in)
+Davies–Meyer
+DC Network
+DDH Problem
+Decentralized Trust Management
+Decisional Diﬃe–Hellman Problem
+Decoding Algorithms
+Decryption Exponent
+Denial of Service (DoS)
+Denial-of-Service Detection
+Deobfuscating Malware
+Derived Key
+Designated Conﬁrmer Signature
+Designated-Veriﬁer Proofs
+De-Skewing
+DES-X (or DESX)
+DH Key Agreement
+Diﬀerential Power Analysis
+Diﬃe-Hellman Key Agreement
+Digital Certiﬁcate
+Digital Signature Scheme Based on McEliece
+Digital Signature Schemes
+Digital Signature Schemes from Codes
+Digital Steganography
+Discrete Logarithm Problem
+Discretionary Access Control Policies (DAC)
+DNS-Based Botnet Detection
+DoS Pushback
+Dynamic Analysis
+Dynamic Malware Analysis
+Dynamic Root of Trust
+Dynamic Separation of Duties
+Ear Shape for Biometric Identiﬁcation
+ECC Challenges
+ECRYPT Stream Cipher Project
+Edwards Coordinates
+Eﬃciency of Hyperelliptic Curve Cryptosystems
+Electro-Magnetic Fingerprinting
+Electronic Check
+Electronic Cheque
+Electronic Postage
+Electronic Purse
+Electronic Voting Schemes
+Electronic Wallet
+ElGamal Public Key Encryption
+Elliptic Curve Discrete Logarithm Problem
+Elliptic Curve Key Agreement Schemes
+Elliptic Curve Keys
+Elliptic Curve Method for Factoring
+Elliptic Curve Point Multiplication Using Halving
+Elliptic Curve Public-Key Encryption Schemes
+Elliptic Curve Signature Schemes
+Elliptic Curve Trace Computation
+Elliptic Curves for Primality Proving
+Encryption Exponent
+Entity Authentication
+Entity Resolution
+Entropy Sources
+Environmental Attacks
+ePassport Security
+є-Diﬀerential Privacy
+є-Indistinguishability
+є-Privacy
+Error-Correcting Cyclic Codes
+Error-Correction Decoding
+Escrow Service
+Euclidean Lattice
+Everywhere Second Preimage Resistant Hash Function (esec)
+Exhaustive Key Search
+Existential Forgery
+Exponential Key Exchange
+Exponential Time
+Exponentiation Algorithms
+Extension Field
+Face Recognition from Still Images and Video
+Factorization Circuits
+Fail-Stop Signature
+False Data Filtering
+False Data Injection Defense
+Fast Correlation Attack
+Fault Attack
+Feige-Fiat-Shamir Signature Scheme
+Fermat Test
+Fiat–Shamir Identiﬁcation Protocol and the
+Feige–Fiat–Shamir Signature Scheme
+Filter Generator
+Fingerprint Authentication
+Firewall Policy Analysis
+Fixed Window Exponentiation
+Fixed-Base Exponentiation
+Fixed-Exponent Exponentiation
+Flexible Authorization Framework (FAF)
+Flow Blocking
+Forged Resets
+Formal Analysis of Cryptographic Protocols
+Formal Analysis of Security APIs
+Formal Methods and Access Control
+Formal Methods for the Orange Book
+Formal Methods in Certiﬁcation and Evaluation
+FPGAs in Cryptography
+Gait Recognition
+Galois Message Authentication Code
+Generalized Mersenne Prime
+Generic Attacks Against DLP
+Generic Model
+GMR Signature
+Goldwasser–Micali Encryption Scheme
+Golomb’s Randomness Postulates
+Grant Option
+Greatest Common Factor
+Group Key Agreement
+Group Key Distribution
+Group Key Exchange
+Hand Geometry Recognition
+Hand Geometry Veriﬁcation
+Handwriting Analysis
+Hard-Core Bit
+Hash Agility
+Hash-Based Signatures
+Hash-Based Message Authentication Code
+Header Injections
+Header-Based Attacks
+HEC Acronym is Often Used for Hyper Elliptic Curves
+High Assurance Evaluation Methods
+Higher Order Derivative Attack
+Hippocratic Database
+History-Based Separation of Duties
+HTTP Digest Access Authentication Scheme
+HTTP Digest Authentication
+HTTP Session Security
+HTTPS, HTTP over TLS
+Human Ear Biometrics
+Human Ear Identiﬁcation
+Human Ear Recognition
+Human Ear Veriﬁcation
+Hybrid Encryption
+Hyperelliptic Curve Discrete Logarithm Problem (HECDLP)
+Hyperelliptic Curve Security
+Hyperelliptic Curves Performance
+Iceman Attack
+Identity Authentication
+Identity Management
+Identity Proof
+Identity Veriﬁcation Protocol
+Identity-Based Cryptosystems
+Impersonation Attack
+Implicit Key Authentication
+Impossible Diﬀerential Attack
+Index Calculus Method
+Indistinguishability of Encryptions
+Inference Control
+Information Flow and Noninterference
+Information Integrity
+Information Theoretic Model
+Insider Threat Defense
+Integer Factoring
+Integrated Circuit Card
+Integrity Model
+Interactive Argument
+Interactive Theorem Proving and Security
+Intrusion Detection in Ad Hoc Networks
+Invasive Attacks
+Inversion Attack
+Inversion in Finite Fields and Rings
+Inversion in Galois Fields
+IPSec Policy Analysis
+ISMS: A Management Framework for Information Security
+ISO 15408 CC – Common Criteria
+ISO 19790 Security Requirements for Cryptographic Modules
+ISO/IEC 15408
+ISO-9796 Signature Standards
+Jamming Attack Defense
+Jamming Resistance
+Kasumi/Misty1
+Kerberos Authentication Protocol
+Kerckhoﬀs’ Law
+Key Agreement
+Key Encryption Key
+Key Generation Using Physical Properties of Wireless Communication
+Key Life Cycle Management
+Key Recovery
+Key Variation
+Keyboard Dynamics
+Keylogging
+Keyword-Based Retrieval over Encrypted Data
+Knapsack Cryptographic Schemes
+Koblitz Elliptic Curves
+Lamport One-Time Signatures
+Late Launch
+Least Privilege
+Levels of Trust
+LFSR
+Linear Complexity
+Linear Consistency Attack
+Linear Cryptanalysis for Block Ciphers
+Linear Cryptanalysis for Stream Ciphers
+Linear Syndrome Attack
+Location Information (Privacy of)
+Location Privacy
+Location Privacy in Wireless Networks
+Logic-Based Authorization Languages
+Luby-Rackoﬀ Ciphers
+M-Invariance
+MAC Algorithms
+Machine Readable Travel Document Security
+Macrodata Disclosure Limitation
+Macrodata Disclosure Protection
+Macrodata Protection
+Maliciously Modiﬁed Set of Administrative Tools
+Malware Behavior Clustering
+Malware Detection
+Mandatory Access Control Policy (MAC)
+MASH Hash Functions (Modular Arithmetic Secure Hash)
+Maurer’s Algorithm
+Maurer’s Method
+McEliece Public Key Cryptosystem
+MD4-MD5
+MDC-2 and MDC-4
+Measurement Models of Software Security
+Memory and State Exhaustion Denial of Service
+Memory and State Exhaustion DoS
+Memory Overﬂow
+Merkle-Hash-Trees Signatures
+Metrics of Software Security
+Microdata Anonymization Techniques
+Microdata Disclosure Limitation
+Microdata Disclosure Protection
+Microdata Masking Techniques
+Microdata Protection
+Miller–Rabin Probabilistic Primality Test
+Miller-Rabin Test
+Minimal Privilege
+MIPS-Year
+Miss-in-the-Middle Attack
+ML-Sequence
+Mobile Wallet
+Modes of Operation of a Block Cipher
+Modular Root
+Monotone Signatures
+Montgomery Arithmetic
+MPKC
+MQ or Multivariate Quadratic Public-Key Cryptosystem (MQPKC)
+Multibiometrics
+Multicast Authentication
+Multicast Stream Authentication
+Multidimensional Databases
+Multi-Exponentiation
+Multilevel Database
+Multilevel Security Policies
+Multiparty Computation
+Multiparty Computation (MPC)
+Multiplicative Knapsack Cryptosystem
+Multiprecision Multiplication
+Multiprecision Squaring
+Multiset Attack
+Multi-Threaded Implementation for Cryptography and Cryptanalysis
+Naccache–Stern Higher Residues Cryptosystem
+Nearest Vector Problem
+NESSIE Project
+Network Bandwidth Denial of Service (DoS)
+Network Capabilities
+Network DoS
+Network Flooding Attack
+Niederreiter Encryption Scheme
+NIST Elliptic Curves
+Node Clone Defense
+Node Replication
+Noninteractive Proof
+Nonlinearity of Boolean Functions
+Non-Malleability
+Nonrepudiable Agreement
+Nonrepudiation of Digital Signatures
+Nonrepudiation Protocol
+Nonsecret Encryption
+NSA Suite B
+Number Field
+Number Field Sieve for Factoring
+Number Field Sieve for the DLP
+Nyberg–Rueppel Signature Scheme
+One Time Password, from a Key Management Perspective
+One-Way Chain
+One-way property
+Operational Separation of Duties
+Optimal Extension Fields (OEFs)
+Outbound Authentication
+Overlay-Based DoS Defenses
+Overspender Detection
+Overspending Prevention
+Packet Flooding Attack
+Paillier Encryption and Signature Schemes
+Pairing-Based Key Exchange
+Pairing-Friendly Elliptic Curves
+Palmprint Authentication
+Palmprint Recognition
+Parallelizable Message Authentication Code
+Passport Security
+Pattern of Blood Vessels
+Perfect Forward Secrecy
+Perfectly Secure Message Transmission
+Phenotyping
+Phi Function
+Physical Obfuscated Key
+Physical Random Function
+PKI Trust Models
+PKI Trust Relationships
+PKIX, Public Key Infrastructure (X.509)
+Platform for Privacy Preferences (P3P)
+Policy Composition
+Polybios Square Encryption
+Polynomial Time
+Porta Encryption
+Practical E-Cash
+Preimage Resistance
+PRESENT – Block Cipher
+Primality Proving Algorithm
+Prime Certiﬁcate
+Prime Generation
+Privacy of Outsourced Data
+Privacy Protection in Biometric Systems
+Privacy-Aware Access Control Policies
+Privacy-Aware Database
+Privacy-Aware Languages
+Privacy-Enabled Database
+Privacy-Enhanced Languages
+Privacy-Preserving Authentication in Wireless Access Networks
+Private Exponent
+Private Key Cryptosystem
+Privileges in SQL
+Probabilistic Key Sharing
+Probabilistic Primality Test
+Probabilistic Public-Key Encryption
+Product Cipher, Superencryption
+Program Integrity Veriﬁcation
+Program Veriﬁcation and Security
+Proof of Knowledge Versus Proof of Membership
+Propagation Characteristics of Boolean Functions
+Protocol Cookies
+Pseudo-Mersenne Prime
+Pseudo-Noise Sequences (PN-Sequences)
+Public Exponent
+Public Key Encryption
+Public Key Proxy Encryption
+Public Key Proxy Signatures
+Public-Key Authenticated Encryption
+Public-Key Cryptosystem
+Public-Key Encryption
+Rabin Digital Signature Scheme
+Radio Frequency Attacks
+Radio Interference Attack Defense
+Radio-Frequency (RF) Fingerprinting
+Radiometric Identiﬁcation
+Radiometrics
+Random Bit Generator
+Random Key Predistribution
+Random Number Testing
+Random Oracle Model
+Rank Codes
+Rank-Matric Codes
+RBAC
+Recipient Anonymity
+Recursive Revoke
+Relationship Anonymity
+Relatively Prime
+Remote Attestation
+Residue Arithmetic
+Resistance to the Standard Algebraic Attack
+Resynchronization Attack
+Reverse Engineering of Malware Emulators
+Reverse Public Key Encryption
+RFID Security
+Right-to-Left Exponentiation
+Rijndael
+RIPEMD Family
+Rivest Cipher 5
+Rivest Cipher 6
+Roles in SQL
+Ron’s Code 5
+Ron’s Code 6
+Root of Trust
+Routing Anonymity
+RSA Digital Signature Scheme
+RSA Public-Key Encryption
+Running-Key
+Runtime Analysis
+Run-Time Malware Analysis
+Schemes Based on Rank Codes
+Schnorr Digital Signature Scheme
+Schnorr Identiﬁcation Protocol
+Script Language Security
+Sealed Storage
+Search over Encrypted Data
+Second Preimage Resistance
+Secondary Use Regulations
+Secret Key Cryptosystem
+Secret Sharing Schemes
+Secure Audit Logs
+Secure Code Dissemination in Wireless Sensor Networks
+Secure Computation
+Secure Computer System Model
+Secure Data Aggregation
+Secure Data Outsourcing: A Brief Overview
+Secure Device Pairing
+Secure Email
+Secure Function Evaluation
+Secure Index
+Secure Localization
+Secure Location Discovery
+Secure Logging
+Secure Network Coding for Wireless Mesh Networks
+Secure Networks Design
+Secure Remote Programming
+Secure Routing in Wireless Mesh Networks
+Secure Routing Protocols
+Secure Signatures from the “Strong RSA” Assumption
+Secure Socket Layer (SSL)
+Secure Time Synchronization
+Secure Vehicular Communication Systems
+Secure Wireless Mesh Networks
+Secure Wireless Multicast
+Security Architecture
+Security Evaluation Criteria
+Security for Mashups
+Security Implication in Virtualization
+Security of Cognitive Radios
+Security of Distance Bounding Protocols
+Security of Group Communication in Wireless Mesh Networks
+Security of Web Browser Scripting Languages
+Security of Wireless Mesh Networks (General Overview)
+Security Reduction
+Security Standards Activities
+Security Veriﬁcation
+Selective Forgery
+Self-Synchronizing Stream Cipher
+Sender Anonymity
+Sensor Code Attestation
+Sensor Key Establishment and Maintenance
+Sensor Key Management
+Session Hijacking Attacks
+SHA-0, SHA-1, SHA-2 (Secure Hash Algorithm)
+Shamir’s Threshold Scheme
+Shamir’s Trick
+Shannon’s Maxim
+Shannon’s Model
+Shortest Vector Problem
+Side-Channel Analysis
+Side-Channel Leakage
+Sieving
+Sieving in Function Fields
+Σ-Protocols
+Signature Biometrics
+Signed Digit Exponentiation
+Signed Window Exponentiation
+SIM/UICC
+Simultaneous Exponentiation
+Simultaneous Transactions
+Sliding Window Exponentiation
+Smart/Algorithmic Denial of Service
+Smartcard Tamper Resistance
+Social Perspectives on Information Privacy
+Software-Based Attestation
+Software-Optimized Encryption Algorithm
+Source Location Privacy
+Space-Time Trade-Oﬀ
+Spam Detection Using Network-Level Characteristics
+Speaker Biometrics
+Speaker Identiﬁcation and Veriﬁcation (SIV)
+Special-Purpose Cryptanalytical Hardware
+Speciﬁc Emitter Identiﬁcation (SEI)
+Speciﬁc Emitter Veriﬁcation (SEV)
+SPKI
+SQL Access Control Model
+SQL Injection Attacks
+Square-and-Multiply Exponentiation
+SSH
+Stack (Buﬀer) Overﬂow
+Stack (Buﬀer) Overrun
+Stack/Heap Smashing
+Static Code Analysis
+Static Separation of Duties
+Stein’s Algorithm
+Stream and Multicast Authentication
+Strong Exclusion
+Structural Cryptanalysis
+Subexponential Time
+Subgroup Cryptosystems
+Substitutions and Permutations
+Symmetric Cryptosystem
+SYN Cookie Defense
+SYN Flood Attack
+Synchronous Stream Cipher
+Tamper Detection
+Tamper Evidence
+Tamper Resistance
+Tamper Response
+Target Collision Resistant Hash Function
+TCP Modulation Attacks
+TCP Reset Injection
+TCP SYN Cookies
+TCP SYN Flooding
+Temperature Attack
+Temporal Access Control
+Temporal Authorization Models
+Theorem Proving and Security
+Threshold Cryptography
+Threshold Homomorphic Cryptosystems
+Threshold Signature
+Time-Memory Trade-oﬀs
+Time-Stamping
+Tracing Traitors
+Tracking Cookie
+Transport-Level Security
+Trapdoor One-Way Function
+Tripartite Key Exchange
+Trojan Horses, Computer Viruses, and Worms
+Truncated Diﬀerentials
+Trust Management in Databases
+Trusted Boot
+Trusted Computing Platform Alliance
+Twin Signatures
+2k-Ary Exponentiation
+Two-Key Cryptosystem
+Type Checking and Security
+Typing Dynamics
+Typing Patterns
+UMTS IC Card
+Uncoordinated Direct Sequence Spread Spectrum
+Uncoordinated Frequency Hopping Spread Spectrum
+Unlinkability
+Unpacking Malware
+Untraceability
+User Authentication
+User Veriﬁcation Method
+Vascular Patterns
+Veriﬁable Encryption
+Vernam Cipher
+Vicinity Card
+Vigenère Encryption
+Virtualization Security
+Virtualized Packer
+Virus Scanner
+Visual Secret Sharing Schemes
+VM Protection
+Voice Biometrics
+Voiceprint Recognition
+von Neumann Correction
+VSSS
+Weak Exclusion
+Web 2.0 Security and Privacy
+Web Access Control Strategies
+Web Browser Security and Privacy
+Web Cache Poisoning Attacks
+Web Client Security and Privacy
+Web Initial Authentication
+Web Initial Sign on
+Web Security
+Web Security Auditing
+Web Service Security
+Web Session Security
+Web Single Sign On and SAML
+Web-Based Security Protocols
+Wiener, Boneh–Durfee, and May Attacks on the RSA Public Key Cryptosystem
+Wireless Device Fingerprinting
+Wireless Locational Privacy
+Witness Hiding
+Worms in Cellular Networks
+XML-Based Access Control Languages
+XSS
+Zeta Function Computation
